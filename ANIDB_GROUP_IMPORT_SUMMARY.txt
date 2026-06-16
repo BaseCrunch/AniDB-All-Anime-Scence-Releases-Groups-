@@ -1,0 +1,12 @@
+AniDB local group import summary
+
+HTML files parsed: 589
+Rows parsed: 17654
+Expected math: 588 pages × 30 + 14 on final page = 17654
+Unique AniDB group IDs: 17654
+Unique names: 17595
+Entries with language hints: 16354
+JSON file: release_groups.import.json
+CSV file: release_groups.import.csv
+
+Place release_groups.import.json in Nava's release-groups folder opened by the Open Groups button.
